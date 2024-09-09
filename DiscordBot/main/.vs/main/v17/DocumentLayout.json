@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Coding\\C#\\Visual Studio\\DiscordBot\\main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{896D2227-2AC6-48D8-A077-58AED0F871A7}|Discord_Bot.pyproj|E:\\Coding\\C#\\Visual Studio\\DiscordBot\\main\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{896D2227-2AC6-48D8-A077-58AED0F871A7}|Discord_Bot.pyproj|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896D2227-2AC6-48D8-A077-58AED0F871A7}|main.pyproj|E:\\Coding\\C#\\Visual Studio\\DiscordBot\\main\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{896D2227-2AC6-48D8-A077-58AED0F871A7}|main.pyproj|solutionrelative:main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896D2227-2AC6-48D8-A077-58AED0F871A7}|main.pyproj|E:\\Coding\\C#\\Visual Studio\\DiscordBot\\main\\responses.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{896D2227-2AC6-48D8-A077-58AED0F871A7}|main.pyproj|solutionrelative:responses.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "responses.py",
+              "DocumentMoniker": "E:\\Coding\\C#\\Visual Studio\\DiscordBot\\main\\responses.py",
+              "RelativeDocumentMoniker": "responses.py",
+              "ToolTip": "E:\\Coding\\C#\\Visual Studio\\DiscordBot\\main\\responses.py",
+              "RelativeToolTip": "responses.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEzSURBVDhPpZOxioNAGITHwzJlCpuABxYWKVLkAezFtxAs7a5NKQeBpEtjESGgb\u002BAD2AgWNoKChZZ2SWeKwN66eMGNEkjywYC7vzP4Dyh8578Eb1KpP0Af8JY67xd9\u002BAguoKoqpiiKYNs2uxNFEbquIwxD5HmOw\u002BGA\u002BXzOZh1cgCzLCIIARVFgv99D0zQ4joPT6YQ4juG6LtbrNQu9M\u002Bygg5qIqqqkbVtiWRY5n89kt9txu/9rsgPf95EkCS6XCzzPw/V6RdM0/XTMKGC73cIwDCwWC2Y\u002BHo8wTROr1QqKomCz2WA2m/VvUx5XoD1wnylJEknTlM06yrIkNIjNmHcY0JlpQffzUMvlkml4N\u002Bqgrmvcbrf\u002BxJNlGdMjow5ehQugK07qGVyAIAiTesbHK3z0OwPAH6D4xld\u002BSxLJAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-09-09T08:33:27.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".env",
+              "DocumentMoniker": "E:\\Coding\\C#\\Visual Studio\\DiscordBot\\main\\.env",
+              "RelativeDocumentMoniker": ".env",
+              "ToolTip": "E:\\Coding\\C#\\Visual Studio\\DiscordBot\\main\\.env",
+              "RelativeToolTip": ".env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-09T08:32:55.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.py",
+              "DocumentMoniker": "E:\\Coding\\C#\\Visual Studio\\DiscordBot\\main\\main.py",
+              "RelativeDocumentMoniker": "main.py",
+              "ToolTip": "E:\\Coding\\C#\\Visual Studio\\DiscordBot\\main\\main.py",
+              "RelativeToolTip": "main.py",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEzSURBVDhPpZOxioNAGITHwzJlCpuABxYWKVLkAezFtxAs7a5NKQeBpEtjESGgb\u002BAD2AgWNoKChZZ2SWeKwN66eMGNEkjywYC7vzP4Dyh8578Eb1KpP0Af8JY67xd9\u002BAguoKoqpiiKYNs2uxNFEbquIwxD5HmOw\u002BGA\u002BXzOZh1cgCzLCIIARVFgv99D0zQ4joPT6YQ4juG6LtbrNQu9M\u002Bygg5qIqqqkbVtiWRY5n89kt9txu/9rsgPf95EkCS6XCzzPw/V6RdM0/XTMKGC73cIwDCwWC2Y\u002BHo8wTROr1QqKomCz2WA2m/VvUx5XoD1wnylJEknTlM06yrIkNIjNmHcY0JlpQffzUMvlkml4N\u002Bqgrmvcbrf\u002BxJNlGdMjow5ehQugK07qGVyAIAiTesbHK3z0OwPAH6D4xld\u002BSxLJAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-09-09T08:32:02.99Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
